@@ -6,7 +6,7 @@ Im currently learning c#
 
 ## Things about me 
 
-Im from Finland :flag_fi:
+Im from Finland FI
 
 He/him
 
