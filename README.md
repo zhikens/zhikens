@@ -2,7 +2,7 @@
 
 ## I love coding :heart:
 
-Im currently learning c#
+Im mainly developing with html & js
 
 ## Things about me 
 
@@ -11,3 +11,4 @@ Im from Finland FI
 He/him
 
 I love ogfn
+
