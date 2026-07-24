@@ -2,7 +2,7 @@
 
 ## I love coding :heart:
 
-Im mainly developing with html & js
+I know many coding languages such as: lua, javascript and a bit of c#
 
 ## Things about me 
 
@@ -10,5 +10,5 @@ Im from Finland FI
 
 He/him
 
-I love ogfn
+I love rhythm games
 
